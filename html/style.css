@@ -22,6 +22,9 @@ section {
   padding: 10px;
 }
 
+.youtube { margin:10px 0; }
+.youtube iframe { margin: 0 auto; display: block; }
+
 #content {
   display: -webkit-flex;
   -webkit-flex-wrap: wrap;
