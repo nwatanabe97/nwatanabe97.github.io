@@ -1,0 +1,40 @@
+h1 {
+  color:orangered;
+  font-size: 260%;
+}
+
+h2 {
+  color: lightsalmon;
+  font-size: 200%;
+}
+
+p {
+  color: dimgray;
+}
+
+p.hobby {
+  font-size: 400%
+}
+
+section {
+  width: 500px;
+  margin: 10px;
+  padding: 10px;
+}
+
+#content {
+  display: -webkit-flex;
+  -webkit-flex-wrap: wrap;
+}
+
+section {
+  -webkit-flex: 1 0 300px;
+  margin: 10px;
+  padding: 10px;
+  border: 1px solid lightgrey;
+  background-color: whitesmoke;
+}
+
+#name  { background-color: lightblue }
+#hobby { background-color: lightgreen }
+#skill { background-color: khaki }
